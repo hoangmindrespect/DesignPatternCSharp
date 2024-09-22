@@ -1,0 +1,14 @@
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+F:\Course in University\C# Programing Languge\Task\DesignPattern\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
